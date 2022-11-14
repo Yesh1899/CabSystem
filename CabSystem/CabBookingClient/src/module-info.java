@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kummariy
+ *
+ */
+module CabBookingClient {
+}
